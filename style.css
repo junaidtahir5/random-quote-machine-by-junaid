@@ -21,7 +21,7 @@ body {
     height: 100vh;
 }
 #quote-box {
-    border-radius:4px;
+    border-radius:6px;
     position: relative;
     width: 450px;
     padding: 50px 50px;
